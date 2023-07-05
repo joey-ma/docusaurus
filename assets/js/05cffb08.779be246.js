@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjoey_ma_github_io=self.webpackChunkjoey_ma_github_io||[]).push([[4845],{7972:a=>{a.exports=JSON.parse('{"label":"ronaldwayne","permalink":"/blog/tags/ronaldwayne","allTagsPath":"/blog/tags","count":1}')}}]);

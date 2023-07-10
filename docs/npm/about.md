@@ -29,4 +29,3 @@ You can also use [`concurrently`](https://www.npmjs.com/package/concurrently).
 ```
 
 [Question @ Stack Overflow](https://stackoverflow.com/questions/32783885/is-it-possible-to-use-npm-to-run-scripts-in-multiple-subfolders)
-

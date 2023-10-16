@@ -7,11 +7,11 @@ require('dotenv').config();
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: `Joey Ma's Docusaurus Site`,
+  title: `Docusaurus`,
   tagline: 'Software Engineer',
-  url: 'https://joey-ma.github.io/docusaurus.v2',
+  url: 'https://joey-ma.github.io',
   // GitHub Pages adds a trailing slash to Docusaurus URLs by default
-  baseUrl: '/',
+  baseUrl: 'docusaurus.v2',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/jam.png',

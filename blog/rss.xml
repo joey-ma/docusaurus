@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>Joey Ma Blog</title>
-        <link>https://joey-ma.github.io/blog</link>
-        <description>Joey Ma Blog</description>
+        <title>Joey Ma's Docusaurus Site Blog</title>
+        <link>https://joey-ma.github.io/docusaurus.v2/blog</link>
+        <description>Joey Ma's Docusaurus Site Blog</description>
         <lastBuildDate>Sat, 01 Apr 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
             <title><![CDATA[Stay Resilient]]></title>
-            <link>https://joey-ma.github.io/blog/stay-resilient</link>
-            <guid>https://joey-ma.github.io/blog/stay-resilient</guid>
+            <link>https://joey-ma.github.io/docusaurus.v2/blog/stay-resilient</link>
+            <guid>https://joey-ma.github.io/docusaurus.v2/blog/stay-resilient</guid>
             <pubDate>Sat, 01 Apr 2023 00:00:00 GMT</pubDate>
             <description><![CDATA["Here’s to the crazy ones, the misfits, the rebels, the troublemakers, the round pegs in the square holes… the ones who see things differently — they’re not fond of rules… You can quote them, disagree with them, glorify or vilify them, but the only thing you can’t do is ignore them because they change things… they push the human race forward, and while some may see them as the crazy ones, we see genius, because the ones who are crazy enough to think that they can change the world, are the ones who do."]]></description>
             <content:encoded><![CDATA[<p>"Here’s to the crazy ones, the misfits, the rebels, the troublemakers, the round pegs in the square holes… the ones who see things differently — they’re not fond of rules… You can quote them, disagree with them, glorify or vilify them, but the only thing you can’t do is ignore them because they change things… they push the human race forward, and while some may see them as the crazy ones, we see genius, because the ones who are crazy enough to think that they can change the world, are the ones who do."<br>
@@ -23,8 +23,8 @@
         </item>
         <item>
             <title><![CDATA[Believe It]]></title>
-            <link>https://joey-ma.github.io/blog/believe-it</link>
-            <guid>https://joey-ma.github.io/blog/believe-it</guid>
+            <link>https://joey-ma.github.io/docusaurus.v2/blog/believe-it</link>
+            <guid>https://joey-ma.github.io/docusaurus.v2/blog/believe-it</guid>
             <pubDate>Wed, 08 Feb 2023 00:00:00 GMT</pubDate>
             <description><![CDATA["Being realistic is the most commonly traveled road to mediocrity."]]></description>
             <content:encoded><![CDATA[<p>"Being realistic is the most commonly traveled road to mediocrity."<br>
@@ -35,8 +35,8 @@
         </item>
         <item>
             <title><![CDATA[Time for Reflection]]></title>
-            <link>https://joey-ma.github.io/blog/reflection-2022</link>
-            <guid>https://joey-ma.github.io/blog/reflection-2022</guid>
+            <link>https://joey-ma.github.io/docusaurus.v2/blog/reflection-2022</link>
+            <guid>https://joey-ma.github.io/docusaurus.v2/blog/reflection-2022</guid>
             <pubDate>Sun, 01 Jan 2023 00:00:00 GMT</pubDate>
             <description><![CDATA["By three methods we may learn wisdom: First, by reflection, which is noblest; Second, by imitation, which is easiest; and third by experience, which is the bitterest."]]></description>
             <content:encoded><![CDATA[<p>"By three methods we may learn wisdom: First, by reflection, which is noblest; Second, by imitation, which is easiest; and third by experience, which is the bitterest."<br>
@@ -47,8 +47,8 @@
         </item>
         <item>
             <title><![CDATA[Goodbye 2022]]></title>
-            <link>https://joey-ma.github.io/blog/goodbye-2022</link>
-            <guid>https://joey-ma.github.io/blog/goodbye-2022</guid>
+            <link>https://joey-ma.github.io/docusaurus.v2/blog/goodbye-2022</link>
+            <guid>https://joey-ma.github.io/docusaurus.v2/blog/goodbye-2022</guid>
             <pubDate>Sat, 31 Dec 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[I am so grateful for everything that I have, and though 2022 has been a trying year for me in its own way, I have no complaints.]]></description>
             <content:encoded><![CDATA[<p>I am so grateful for everything that I have, and though 2022 has been a trying year for me in its own way, I have no complaints.</p><p>Onwards and upwards, here's to a better year ahead!</p><p>This blog post is written in <code>md</code>,</p><p>Use a <code>&lt;!--</code> <code>truncate</code> <code>--&gt;</code> comment to limit blog post size in the list view.</p><p>This paragraph would only show after you click into this blog post.</p><p>Docusaurus Site Showcase<br>
@@ -67,11 +67,11 @@
         </item>
         <item>
             <title><![CDATA[Merry Christmas 2022]]></title>
-            <link>https://joey-ma.github.io/blog/merry-christmas-2022</link>
-            <guid>https://joey-ma.github.io/blog/merry-christmas-2022</guid>
+            <link>https://joey-ma.github.io/docusaurus.v2/blog/merry-christmas-2022</link>
+            <guid>https://joey-ma.github.io/docusaurus.v2/blog/merry-christmas-2022</guid>
             <pubDate>Sat, 24 Dec 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Welcome to my website!]]></description>
-            <content:encoded><![CDATA[<p>Welcome to my website! </p><p>I look forward to documenting some useful notes and resources here.</p><p>For what doesn't fit within the Docs, e.g., quotes that I appreciate, random findings, I'll jot down something here and maybe document a bit about my journey as a software engineer as well.</p><p>I'm not good with <em>"blogging"</em> though, so don't hate! Do reach out though if you want to connect!</p><p><img loading="lazy" alt="Docusaurus Plushie" src="/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ev3q"></p>]]></content:encoded>
+            <content:encoded><![CDATA[<p>Welcome to my website! </p><p>I look forward to documenting some useful notes and resources here.</p><p>For what doesn't fit within the Docs, e.g., quotes that I appreciate, random findings, I'll jot down something here and maybe document a bit about my journey as a software engineer as well.</p><p>I'm not good with <em>"blogging"</em> though, so don't hate! Do reach out though if you want to connect!</p><p><img loading="lazy" alt="Docusaurus Plushie" src="/docusaurus.v2/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ev3q"></p>]]></content:encoded>
             <category>hello</category>
             <category>docusaurus</category>
             <category>facebook</category>

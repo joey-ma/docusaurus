@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkjoey_ma_github_io=self.webpackChunkjoey_ma_github_io||[]).push([[6967],{5071:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/goodbye","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

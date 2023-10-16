@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkjoey_ma_github_io=self.webpackChunkjoey_ma_github_io||[]).push([[1596],{4420:e=>{e.exports=JSON.parse('{"title":"AWS","description":"Amazon Web Services notes.","slug":"/category/aws","permalink":"/docs/category/aws","navigation":{"previous":{"title":"About Docs","permalink":"/docs/about"},"next":{"title":"ECR","permalink":"/docs/AWS/ECR"}}}')}}]);

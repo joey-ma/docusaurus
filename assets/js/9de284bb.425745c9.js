@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkjoey_ma_github_io=self.webpackChunkjoey_ma_github_io||[]).push([[896],{1652:e=>{e.exports=JSON.parse('{"title":"SQL","description":"SQL notes.","slug":"/category/sql","permalink":"/docs/category/sql","navigation":{"previous":{"title":"zsh","permalink":"/docs/shell/zsh"},"next":{"title":"SQL","permalink":"/docs/sql/"}}}')}}]);

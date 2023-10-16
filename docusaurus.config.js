@@ -7,9 +7,9 @@ require('dotenv').config();
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Joey Ma',
+  title: `Joey Ma's Docusaurus Site`,
   tagline: 'Software Engineer',
-  url: 'https://joey-ma.github.io',
+  url: 'https://joey-ma.github.io/docusaurus.v2',
   // GitHub Pages adds a trailing slash to Docusaurus URLs by default
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -20,7 +20,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'joey-ma', // Usually your GitHub org/user name.
-  projectName: 'joey-ma.github.io', // Usually your repo name.
+  projectName: 'docusaurus.v2', // Usually your repo name.
   deploymentBranch: 'gh-pages',
 
   // Even if you don't use internalization, you can use this field to set useful
@@ -41,7 +41,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/joey-ma/joey-ma.github.io/tree/main/',
+            'https://github.com/joey-ma/docusaurus.v2/tree/main/',
           exclude: [ '**/README.md**', '**/CONTRIBUTING.md**', '**/CODE_OF_CONDUCT.md**', '**/TYPES_OF_CONTRIBUTIONS.md**' ]
         },
         blog: {
@@ -49,7 +49,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/joey-ma/joey-ma.github.io/tree/main/',
+            'https://github.com/joey-ma/docusaurus.v2/tree/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

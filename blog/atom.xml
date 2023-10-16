@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joey-ma.github.io/docusaurus.v2/blog</id>
-    <title>Joey Ma's Docusaurus Site Blog</title>
+    <title>Docusaurus Blog</title>
     <updated>2023-04-01T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://joey-ma.github.io/docusaurus.v2/blog"/>
-    <subtitle>Joey Ma's Docusaurus Site Blog</subtitle>
+    <subtitle>Docusaurus Blog</subtitle>
     <icon>https://joey-ma.github.io/docusaurus.v2/img/jam.png</icon>
     <entry>
         <title type="html"><![CDATA[Stay Resilient]]></title>

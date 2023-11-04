@@ -1,4 +1,4 @@
-# REdis
+# Redis
 
 :::note
 
@@ -37,7 +37,7 @@ console.log(JSON.stringify(userSession, null, 2));
 
 ### Using HGET
 
-The examples use HSET, HGETALL, but why not HGET?
+The doc's [examples](https://redis.js.org/#node-redis-usage-redis-commands) use HSET, HGETALL, but why not HGET?
 
 Turns out I'm not the only one who ran into this [problem](https://stackoverflow.com/questions/71501392/can-set-data-in-redis-server-but-cant-get-it).
 
@@ -47,7 +47,15 @@ These are all different questions, but they all hint at the much needed clarity 
 
 [Redis Node - Get from hash - Not inserting into array](https://stackoverflow.com/questions/48945428/redis-node-get-from-hash-not-inserting-into-array)
 
-https://redis.io/commands/hget/
+- Doc on Redis command [HGET](https://redis.io/commands/hget/)
 
 Maybe this would be the solution? 
 https://github.com/redis/node-redis/issues/1783#issuecomment-1004426704
+
+```js
+  // HGET/HSET work as expected
+  client.HSET(h, f, "foo", (_, resp) => { console.log("HSET:", resp) }); // 0
+  client.HGET(h, f,        (_, resp) => { console.log("HGET:", resp) }); // foo
+  client.hSet(h, f, "foo", (_, resp) => { console.log("hSet:", resp) }); // 0
+  client.hGet(h, f,        (_, resp) => { console.log("hGet:", resp) }); // foo
+```

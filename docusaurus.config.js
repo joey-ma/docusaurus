@@ -11,7 +11,7 @@ const config = {
   tagline: 'Software Engineer',
   url: 'https://joey-ma.github.io',
   // GitHub Pages adds a trailing slash to Docusaurus URLs by default
-  baseUrl: 'docusaurus.v2',
+  baseUrl: 'docusaurus',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/jam.png',
@@ -20,7 +20,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'joey-ma', // Usually your GitHub org/user name.
-  projectName: 'docusaurus.v2', // Usually your repo name.
+  projectName: 'docusaurus', // Usually your repo name.
   deploymentBranch: 'gh-pages',
 
   // Even if you don't use internalization, you can use this field to set useful

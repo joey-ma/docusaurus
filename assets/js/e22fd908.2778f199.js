@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocusaurus_v2=self.webpackChunkdocusaurus_v2||[]).push([[5017],{6703:s=>{s.exports=JSON.parse('{"label":"software development","permalink":"/docusaurus.v2/blog/tags/software-development","allTagsPath":"/docusaurus.v2/blog/tags","count":1}')}}]);

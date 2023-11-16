@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_v2=self.webpackChunkdocusaurus_v2||[]).push([[9605],{9734:s=>{s.exports=JSON.parse('{"permalink":"/docusaurus/blog/tags/software-engineering","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_v2=self.webpackChunkdocusaurus_v2||[]).push([[1673],{2197:s=>{s.exports=JSON.parse('{"permalink":"/docusaurus/blog/tags/stevewozniak","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -4,8 +4,8 @@
   <ShortName>Docusaurus</ShortName>
   <Description>Search Docusaurus</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://joey-ma.github.io/docusaurus.v2/img/jam.png</Image>
-  <Url type="text/html" method="get" template="https://joey-ma.github.io/docusaurus.v2/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://joey-ma.github.io/docusaurus.v2/opensearch.xml" />
-  <moz:SearchForm>https://joey-ma.github.io/docusaurus.v2/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://joey-ma.github.io/docusaurus/img/jam.png</Image>
+  <Url type="text/html" method="get" template="https://joey-ma.github.io/docusaurus/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://joey-ma.github.io/docusaurus/opensearch.xml" />
+  <moz:SearchForm>https://joey-ma.github.io/docusaurus/</moz:SearchForm>
 </OpenSearchDescription>

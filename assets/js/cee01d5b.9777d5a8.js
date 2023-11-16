@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_v2=self.webpackChunkdocusaurus_v2||[]).push([[9867],{313:s=>{s.exports=JSON.parse('{"label":"software engineering","permalink":"/docusaurus/blog/tags/software-engineering","allTagsPath":"/docusaurus/blog/tags","count":2}')}}]);

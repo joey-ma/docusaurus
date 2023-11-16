@@ -1,19 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://joey-ma.github.io/docusaurus.v2/blog</id>
+    <id>https://joey-ma.github.io/docusaurus/blog</id>
     <title>Docusaurus Blog</title>
-    <updated>2023-11-04T00:00:00.000Z</updated>
+    <updated>2023-11-15T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://joey-ma.github.io/docusaurus.v2/blog"/>
+    <link rel="alternate" href="https://joey-ma.github.io/docusaurus/blog"/>
     <subtitle>Docusaurus Blog</subtitle>
-    <icon>https://joey-ma.github.io/docusaurus.v2/img/jam.png</icon>
+    <icon>https://joey-ma.github.io/docusaurus/img/jam.png</icon>
     <entry>
         <title type="html"><![CDATA[Good Articles]]></title>
-        <id>https://joey-ma.github.io/docusaurus.v2/blog/good-articles</id>
-        <link href="https://joey-ma.github.io/docusaurus.v2/blog/good-articles"/>
+        <id>https://joey-ma.github.io/docusaurus/blog/good-articles</id>
+        <link href="https://joey-ma.github.io/docusaurus/blog/good-articles"/>
+        <updated>2023-11-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There's been quite a lot happening lately. With Next.js Conf 2023 (10/26) launching Next.js 14, GitHub Universe 2023 (11/8-9) spotlighting GitHub Copilot Chat, the Docusaurus v3 launch (10/31) was something I had revisit.]]></summary>
+        <content type="html"><![CDATA[<p>There's been quite a lot happening lately. With Next.js Conf 2023 (10/26) launching Next.js 14, GitHub Universe 2023 (11/8-9) spotlighting GitHub Copilot Chat, the Docusaurus v3 launch (10/31) was something I had revisit. </p><p>I look forward to be migrating this site to v3 and to learn from this experience.</p>]]></content>
+        <author>
+            <name>Joey Ma</name>
+            <uri>https://github.com/joey-ma</uri>
+        </author>
+        <category label="software development" term="software development"/>
+        <category label="software engineering" term="software engineering"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Good Articles]]></title>
+        <id>https://joey-ma.github.io/docusaurus/blog/good-articles</id>
+        <link href="https://joey-ma.github.io/docusaurus/blog/good-articles"/>
         <updated>2023-11-04T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[At work, a lot has happened, and I'd like to eventually (not today) reflect on my journey with my current firm. When I saw this reaction video by ThePrimeTime, I'm reminded of some good principals, and things I've read from good articles, and concepts discussed regarding how my team was going about with the development process, and I'm going to try to document them here later.]]></summary>
-        <content type="html"><![CDATA[<p>At work, a lot has happened, and I'd like to eventually (not today) reflect on my journey with my current firm. When I saw this <a href="https://www.youtube.com/watch?v=UdCXUVhVSEE" target="_blank" rel="noopener noreferrer">reaction video</a> by ThePrimeTime, I'm reminded of some good principals, and things I've read from good articles, and concepts discussed regarding how my team was going about with the development process, and I'm going to try to document them here <em>later</em>.</p><p>Here's <a href="https://x.com/kentcdodds?s=20" target="_blank" rel="noopener noreferrer">Kent C. Dodds</a>'s <a href="https://www.epicweb.dev/why-i-wont-use-nextjs" target="_blank" rel="noopener noreferrer">Why I Won't Use Next.js</a>.</p><p>Here's <a href="https://twitter.com/leeerob" target="_blank" rel="noopener noreferrer">Lee Robinson</a>'s <a href="https://leerob.io/blog/using-nextjs" target="_blank" rel="noopener noreferrer">Why I'm Using Next.js</a></p><p>Some interesting points:</p><ol><li>Whatever you use is probably fine. </li><li>Your tool choice matters much less than your skill at using the tool to accomplish your desired outcome (a great user experience).</li><li>I want to point out that features matter less than capabilities.</li><li>Because at the end of the day, I just want to make the world a better place by teaching you how to build quality software.</li><li>When there's competition in DevTools, developers win</li></ol><p>Some related links:</p><ul><li><a href="https://kentcdodds.com/blog/why-i-love-remix" target="_blank" rel="noopener noreferrer">Why I Love Remix</a></li><li>Albetit this is an article from January 10, 2022, this is an interesting read to get a feel for how the Remix team thinks: <a href="https://remix.run/blog/remix-vs-next" target="_blank" rel="noopener noreferrer">Remix vs Next</a></li></ul><p>Tons of tools are mentioned in the above articles, which I'll list them out for reference later:</p><ul><li><a href="https://fly.io/docs/reference/regions/" target="_blank" rel="noopener noreferrer">Fly.io</a></li><li><a href="https://www.webpagetest.org" target="_blank" rel="noopener noreferrer">WebPageTest</a></li><li><a href="https://vercel.com/templates/next.js/nextjs-commerce" target="_blank" rel="noopener noreferrer">Next.js Commerce</a></li></ul>]]></content>
+        <content type="html"><![CDATA[<p>There's been quite a lot happening lately. With Next.js Conf 2023 (10/26) launching Next.js 14, GitHub Universe 2023 (11/8-9) spotlighting GitHub Copilot Chat, the Docusaurus v3 launch (10/31) was something I had revisit. </p><p>I look forward to be migrating this site to v3 and to learn from this experience.</p>]]></content>
         <author>
             <name>Joey Ma</name>
             <uri>https://github.com/joey-ma</uri>
@@ -23,8 +37,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Stay Resilient]]></title>
-        <id>https://joey-ma.github.io/docusaurus.v2/blog/stay-resilient</id>
-        <link href="https://joey-ma.github.io/docusaurus.v2/blog/stay-resilient"/>
+        <id>https://joey-ma.github.io/docusaurus/blog/stay-resilient</id>
+        <link href="https://joey-ma.github.io/docusaurus/blog/stay-resilient"/>
         <updated>2023-04-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA["Here’s to the crazy ones, the misfits, the rebels, the troublemakers, the round pegs in the square holes… the ones who see things differently — they’re not fond of rules… You can quote them, disagree with them, glorify or vilify them, but the only thing you can’t do is ignore them because they change things… they push the human race forward, and while some may see them as the crazy ones, we see genius, because the ones who are crazy enough to think that they can change the world, are the ones who do."]]></summary>
         <content type="html"><![CDATA[<p>"Here’s to the crazy ones, the misfits, the rebels, the troublemakers, the round pegs in the square holes… the ones who see things differently — they’re not fond of rules… You can quote them, disagree with them, glorify or vilify them, but the only thing you can’t do is ignore them because they change things… they push the human race forward, and while some may see them as the crazy ones, we see genius, because the ones who are crazy enough to think that they can change the world, are the ones who do."<br>
@@ -40,8 +54,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Believe It]]></title>
-        <id>https://joey-ma.github.io/docusaurus.v2/blog/believe-it</id>
-        <link href="https://joey-ma.github.io/docusaurus.v2/blog/believe-it"/>
+        <id>https://joey-ma.github.io/docusaurus/blog/believe-it</id>
+        <link href="https://joey-ma.github.io/docusaurus/blog/believe-it"/>
         <updated>2023-02-08T00:00:00.000Z</updated>
         <summary type="html"><![CDATA["Being realistic is the most commonly traveled road to mediocrity."]]></summary>
         <content type="html"><![CDATA[<p>"Being realistic is the most commonly traveled road to mediocrity."<br>
@@ -56,8 +70,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Time for Reflection]]></title>
-        <id>https://joey-ma.github.io/docusaurus.v2/blog/reflection-2022</id>
-        <link href="https://joey-ma.github.io/docusaurus.v2/blog/reflection-2022"/>
+        <id>https://joey-ma.github.io/docusaurus/blog/reflection-2022</id>
+        <link href="https://joey-ma.github.io/docusaurus/blog/reflection-2022"/>
         <updated>2023-01-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA["By three methods we may learn wisdom: First, by reflection, which is noblest; Second, by imitation, which is easiest; and third by experience, which is the bitterest."]]></summary>
         <content type="html"><![CDATA[<p>"By three methods we may learn wisdom: First, by reflection, which is noblest; Second, by imitation, which is easiest; and third by experience, which is the bitterest."<br>
@@ -72,8 +86,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Goodbye 2022]]></title>
-        <id>https://joey-ma.github.io/docusaurus.v2/blog/goodbye-2022</id>
-        <link href="https://joey-ma.github.io/docusaurus.v2/blog/goodbye-2022"/>
+        <id>https://joey-ma.github.io/docusaurus/blog/goodbye-2022</id>
+        <link href="https://joey-ma.github.io/docusaurus/blog/goodbye-2022"/>
         <updated>2022-12-31T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[I am so grateful for everything that I have, and though 2022 has been a trying year for me in its own way, I have no complaints.]]></summary>
         <content type="html"><![CDATA[<p>I am so grateful for everything that I have, and though 2022 has been a trying year for me in its own way, I have no complaints.</p><p>Onwards and upwards, here's to a better year ahead!</p><p>This blog post is written in <code>md</code>,</p><p>Use a <code>&lt;!--</code> <code>truncate</code> <code>--&gt;</code> comment to limit blog post size in the list view.</p><p>This paragraph would only show after you click into this blog post.</p><p>Docusaurus Site Showcase<br>
@@ -96,11 +110,11 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Merry Christmas 2022]]></title>
-        <id>https://joey-ma.github.io/docusaurus.v2/blog/merry-christmas-2022</id>
-        <link href="https://joey-ma.github.io/docusaurus.v2/blog/merry-christmas-2022"/>
+        <id>https://joey-ma.github.io/docusaurus/blog/merry-christmas-2022</id>
+        <link href="https://joey-ma.github.io/docusaurus/blog/merry-christmas-2022"/>
         <updated>2022-12-24T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Welcome to my website!]]></summary>
-        <content type="html"><![CDATA[<p>Welcome to my website! </p><p>I look forward to documenting some useful notes and resources here.</p><p>For what doesn't fit within the Docs, e.g., quotes that I appreciate, random findings, I'll jot down something here and maybe document a bit about my journey as a software engineer as well.</p><p>I'm not good with <em>"blogging"</em> though, so don't hate! Do reach out though if you want to connect!</p><p><img loading="lazy" alt="Docusaurus Plushie" src="/docusaurus.v2/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ev3q"></p>]]></content>
+        <content type="html"><![CDATA[<p>Welcome to my website! </p><p>I look forward to documenting some useful notes and resources here.</p><p>For what doesn't fit within the Docs, e.g., quotes that I appreciate, random findings, I'll jot down something here and maybe document a bit about my journey as a software engineer as well.</p><p>I'm not good with <em>"blogging"</em> though, so don't hate! Do reach out though if you want to connect!</p><p><img loading="lazy" alt="Docusaurus Plushie" src="/docusaurus/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ev3q"></p>]]></content>
         <author>
             <name>Joey Ma</name>
             <uri>https://github.com/joey-ma</uri>

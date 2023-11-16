@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_v2=self.webpackChunkdocusaurus_v2||[]).push([[990],{2709:u=>{u.exports=JSON.parse('{"label":"confucius","permalink":"/docusaurus/blog/tags/confucius","allTagsPath":"/docusaurus/blog/tags","count":1}')}}]);
